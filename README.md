@@ -18,7 +18,7 @@ Berdasarkan ketentuan tugas, proyek ini melalui tahapan-tahapan berikut:
 
 ---
 
-## Tech Stack & Libraries
+## Libraries
 * **Python**
 * **TensorFlow**
 * **OpenCV**
