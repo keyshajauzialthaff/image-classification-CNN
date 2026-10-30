@@ -29,6 +29,6 @@ Berdasarkan ketentuan tugas, proyek ini melalui tahapan-tahapan berikut:
 
 ## 📁 Struktur File di Repository
 ```text
-├── UAS ADTT.pdf                 # Laporan lengkap tugas akhir[cite: 1]
-├── notebook_cnn_simpsons.ipynb  # Jupyter Notebook / Script Google Colab[cite: 3]
+├── Convolutional Neural Network.pdf                 # Laporan lengkap tugas akhir[cite: 1]
+├── Convolutional_neural_network_for_image_classification.ipynb  # Jupyter Notebook / Script Google Colab[cite: 3]
 └── README.md                    # Dokumentasi repositori
