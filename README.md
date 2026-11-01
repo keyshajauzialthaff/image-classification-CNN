@@ -2,7 +2,7 @@
 
 # Klasifikasi Karakter Kartun (Homer vs Bart Simpson) Menggunakan Convolutional Neural Network (CNN)
 
-Repositori ini dibuat untuk memenuhi tugas Ujian Akhir Semester (UAS) Mata Kuliah **Analisis Data Tidak Terstruktur**. Proyek ini mengimplementasikan *Deep Learning* menggunakan arsitektur **Convolutional Neural Network (CNN)** dengan pustaka TensorFlow/Keras untuk mengklasifikasikan gambar karakter kartun antara Homer Simpson dan Bart Simpson.
+Repositori ini dibuat untuk mengimplementasikan *Deep Learning* menggunakan arsitektur **Convolutional Neural Network (CNN)** dengan pustaka TensorFlow/Keras untuk mengklasifikasikan gambar karakter kartun antara Homer Simpson dan Bart Simpson.
 
 ## Tahapan Pengerjaan Proyek
 Berdasarkan ketentuan tugas, proyek ini melalui tahapan-tahapan berikut:
